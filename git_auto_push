@@ -1,4 +1,4 @@
 !#bin/bash
 git add .
-git commit -m "odd and even numbers"
+git commit -m "bmi and leap year "
 git push
