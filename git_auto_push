@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "pizza order solution 2"
+git commit -m "logical operator intro"
 git push
