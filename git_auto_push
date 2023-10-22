@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "initialize pizza order exercise"
+git commit -m "pizza order exercise"
 git push
