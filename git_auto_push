@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "treasure island initialized"
+git commit -m "treasure island updated"
 git push
