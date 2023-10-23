@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "logical operator intro"
+git commit -m "love calculator"
 git push
