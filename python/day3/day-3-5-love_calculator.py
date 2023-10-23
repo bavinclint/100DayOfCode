@@ -14,8 +14,7 @@ occurrence2 = (lower_name1 + lower_name2).count('l') + \
     (lower_name1 + lower_name2).count('o') + (lower_name1 +
                                               lower_name2).count('v') + (lower_name1 + lower_name2).count('e')
 
-occurrence_convert = str(occurrence1) + str(occurrence2)
-occurrence = int(occurrence_convert)
+occurrence = int(str(occurrence1) + str(occurrence2))
 
 if (occurrence < 10) or (occurrence > 90):
     print(f"Your score is {occurrence}, you go together like coke and mentos.")
