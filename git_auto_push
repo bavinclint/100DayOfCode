@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "rock-paper-scissors"
+git commit -m "loop introduction"
 git push
