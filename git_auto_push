@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "day five exercises"
+git commit -m "password generator"
 git push
