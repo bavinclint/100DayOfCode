@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "password generator"
+git commit -m "functions introduction"
 git push
