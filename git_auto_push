@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "functions introduction"
+git commit -m "hangman project"
 git push
