@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "hangman project"
+git commit -m "reeborg test"
 git push
